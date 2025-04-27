@@ -121,9 +121,8 @@ The goal is to prove that <strong>self-supervised contrastive representations</s
 <hr>
 
 <h3>🎨 Visual Demo (Similarity)</h3>
-
+<img src="https://github.com/user-attachments/assets/af5bd09c-b489-46dd-9ead-348a027c97be">
 <p><strong>Selected classes</strong>: [137, 203]</p>
-![image](https://github.com/user-attachments/assets/af5bd09c-b489-46dd-9ead-348a027c97be)
 
 <p><strong>Similarity Matrix (Dot-Product):</strong></p>
 
