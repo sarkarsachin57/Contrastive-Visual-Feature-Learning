@@ -1,7 +1,7 @@
 <h1>🚀 Contrastive Learning Evaluation with kNN on Unlabeled Dataset</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/license-GNU-green.svg" />
   <img src="https://img.shields.io/badge/python-3.8%2B-blue.svg" />
   <img src="https://img.shields.io/badge/framework-PyTorch-lightgrey.svg" />
 </p>
