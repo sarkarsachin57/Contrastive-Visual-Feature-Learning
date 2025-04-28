@@ -45,7 +45,7 @@ The goal is to prove that <strong>self-supervised contrastive representations</s
 
 <h3>📂 Dataset</h3>
 <ul>
-  <li><strong>Dataset</strong>: Private Dataset (Approximate characteristics similar to standard classification benchmarks)</li>
+  <li><strong>Dataset</strong>: Caltech 256 (https://data.caltech.edu/records/nyy15-4j048)</li>
   <li><strong>Total Images</strong>: ~30,507</li>
   <li><strong>Classes</strong>: 256</li>
   <li><strong>Test Set</strong>: 6,122 images</li>
